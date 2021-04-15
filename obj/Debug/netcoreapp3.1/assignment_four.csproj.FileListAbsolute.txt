@@ -1,0 +1,13 @@
+C:\Users\meiluca\Desktop\SCHOOL\secondSemester\programmingFundamentals2\assignments\assignment03\obj\Debug\netcoreapp3.1\assignment_four.csprojAssemblyReference.cache
+C:\Users\meiluca\Desktop\SCHOOL\secondSemester\programmingFundamentals2\assignments\assignment03\obj\Debug\netcoreapp3.1\assignment_four.AssemblyInfoInputs.cache
+C:\Users\meiluca\Desktop\SCHOOL\secondSemester\programmingFundamentals2\assignments\assignment03\obj\Debug\netcoreapp3.1\assignment_four.AssemblyInfo.cs
+C:\Users\meiluca\Desktop\SCHOOL\secondSemester\programmingFundamentals2\assignments\assignment03\obj\Debug\netcoreapp3.1\assignment_four.csproj.CoreCompileInputs.cache
+C:\Users\meiluca\Desktop\SCHOOL\secondSemester\programmingFundamentals2\assignments\assignment03\bin\Debug\netcoreapp3.1\assignment_four.exe
+C:\Users\meiluca\Desktop\SCHOOL\secondSemester\programmingFundamentals2\assignments\assignment03\bin\Debug\netcoreapp3.1\assignment_four.deps.json
+C:\Users\meiluca\Desktop\SCHOOL\secondSemester\programmingFundamentals2\assignments\assignment03\bin\Debug\netcoreapp3.1\assignment_four.runtimeconfig.json
+C:\Users\meiluca\Desktop\SCHOOL\secondSemester\programmingFundamentals2\assignments\assignment03\bin\Debug\netcoreapp3.1\assignment_four.runtimeconfig.dev.json
+C:\Users\meiluca\Desktop\SCHOOL\secondSemester\programmingFundamentals2\assignments\assignment03\bin\Debug\netcoreapp3.1\assignment_four.dll
+C:\Users\meiluca\Desktop\SCHOOL\secondSemester\programmingFundamentals2\assignments\assignment03\bin\Debug\netcoreapp3.1\assignment_four.pdb
+C:\Users\meiluca\Desktop\SCHOOL\secondSemester\programmingFundamentals2\assignments\assignment03\obj\Debug\netcoreapp3.1\assignment_four.dll
+C:\Users\meiluca\Desktop\SCHOOL\secondSemester\programmingFundamentals2\assignments\assignment03\obj\Debug\netcoreapp3.1\assignment_four.pdb
+C:\Users\meiluca\Desktop\SCHOOL\secondSemester\programmingFundamentals2\assignments\assignment03\obj\Debug\netcoreapp3.1\assignment_four.genruntimeconfig.cache

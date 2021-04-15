@@ -1,0 +1,18 @@
+computeRate --Overload one
+    - numOfDays: rate of $75 per day
+    - Returns the rate to the calling program where the rate is displayed
+
+computeRate --Overload two
+    - numOfDays: 
+    - addOnServiceCode: A (Bathing and Grooming add-on) priced at
+    $169.00, C (Just bathing included) priced at $112.00 per day, any other code
+    returns invalid 
+    - Returns the rate to the calling program where the rate is
+    displayed 
+
+Main Program asks user for: 
+    - numOfDays: for pet instance 
+    - option of add-on --if else logic that calls
+    the first method or prompts for users for add ons and calls the second
+    method - Consclusion: outputs numOfDays, addOnServiceCode if aplicable,  and
+    the total cost
