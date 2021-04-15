@@ -10,6 +10,9 @@ namespace assignment_four
             int number_of_days;
             double compute_rate;
             string add_on_code;
+            
+            //call welcome method
+            welcome();
 
             //Recieve data for computeRate methods
             System.Console.WriteLine("Enter the number of days the dog will stay: ");
@@ -26,15 +29,24 @@ namespace assignment_four
                 compute_rate = computeRate(number_of_days);
                 add_on_code = "NONE";
             }
+            
+            //call Conclusion module
+            conclusion(number_of_days, add_on_code, compute_rate);
+
+        }
+        //Welcome Module
+        static void welcome(){
+            System.Console.WriteLine("Welcome to MPLS Dog Boarding Compute Rate Program\nThis program will compute the rate of your dogs stay based on a standard rate of $75.00\nor Two add-on packages, Package A: Bathing and Grooming for $169.00 per day or Package C: Bathing for $112.00 per day.\n");
+        }
+        //Conclusion Module
+        static void conclusion(int number_of_days, string add_on_code, double compute_rate){
 
             //safeguard for entering only valid codes and conclusion of program
             if(add_on_code == "A" || add_on_code == "C" || add_on_code == "NONE"){
-                Console.WriteLine(String.Format($"Number of days for stay: [{number_of_days}] Add on Services Code: [{add_on_code}] Total cost of stay: [${compute_rate}]"));
+                Console.WriteLine(String.Format($"Number of days for stay: [{number_of_days}] Add on Services Code: [{add_on_code}] Total cost of stay: [${compute_rate}]\nThank you for using MPLS Dog Boarding Compute Rate Program"));
             }else{
                 System.Console.WriteLine("Code entered was invalid");
             }
-            
-
         }
 
         //Overloaded method with one argument
